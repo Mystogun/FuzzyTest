@@ -1,0 +1,6 @@
+C:\Users\Mohammed\RiderProjects\NESTTest\FuzzyTest\bin\Debug\FuzzyTest.exe
+C:\Users\Mohammed\RiderProjects\NESTTest\FuzzyTest\bin\Debug\FuzzyTest.pdb
+C:\Users\Mohammed\RiderProjects\NESTTest\FuzzyTest\obj\Debug\FuzzyTest.csprojAssemblyReference.cache
+C:\Users\Mohammed\RiderProjects\NESTTest\FuzzyTest\obj\Debug\FuzzyTest.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\RiderProjects\NESTTest\FuzzyTest\obj\Debug\FuzzyTest.exe
+C:\Users\Mohammed\RiderProjects\NESTTest\FuzzyTest\obj\Debug\FuzzyTest.pdb
